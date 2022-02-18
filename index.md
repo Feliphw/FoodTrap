@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/Feliphw/FoodTrap/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head> <title> PANCAKE </title> </head>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="img/panqueca.jpg" height="450" title="panqueca de banana"/>
 
-### Markdown
+<img src="img/receita.png" width="120" title="receita abaixo!"/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="img/ingredientes.jpg" height="247" title="ingredientes abaixo"/>
 
-```markdown
-Syntax highlighted code block
+<h1> RECEITA DE PANQUECA DE BANANA </h1>
+<h2> INGREDIENTES </h2>
+<ul>
+<li> 2 bananas </li>
+<li> 2 ovos </li>
+<li> 1 colher (sopa) de açúcar </li>
+<li>5 colheres (sopa) de farinha de trigo com fermento </li>
+<li>1/2 xícara (chá) de leite </li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h3> MODO DE PREPARO </h3>
+<ol>
+<li> Em uma Tigela, amasse as duas bananas com a ajuda de um garfo, junte os dois ovos, o açúcar e misture bem. </li>
 
-- Bulleted
-- List
+<li>Acrescente a farinha de trigo, uma colher de cada vez, misturando para não empelotar. </li>
 
-1. Numbered
-2. List
+<li>Por último coloque o leite, mexendo até obter uma massa homogênea.</li>
 
-**Bold** and _Italic_ and `Code` text
+<li>Coloque uma concha da massa no centro de uma frigideira antiaderente, devagar para que a massa não se espalhe muito (se preferir pode ir moldando com a ajuda de uma colher). </li>
 
-[Link](url) and ![Image](src)
-```
+<li>Deixe dourar e com a ajuda de uma espátula vire e doure o outro lado. </li>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<li>Pronto, é só servir acompanhada de mel ou ainda frutas, excelente pedida para o café da manhã! </li>
 
-### Jekyll Themes
+</ol>
+</body>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Feliphw/FoodTrap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
