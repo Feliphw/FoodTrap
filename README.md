@@ -10,3 +10,5 @@ Welcome to the challenge
 ![Lamb meat](https://github.com/Feliphw/FoodTrap/blob/gh-pages/Lamb%20meat/cordeiro.png)
 
 ![Pizza](https://github.com/Feliphw/FoodTrap/blob/gh-pages/Pizza/Layout%20view%20pizza.png)
+
+![Sushi](https://github.com/Feliphw/FoodTrap/blob/gh-pages/Sushi/Sushi%20Layout.png)
