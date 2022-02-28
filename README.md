@@ -12,3 +12,5 @@ Welcome to the challenge
 ![Pizza layout](https://github.com/Feliphw/FoodTrap/blob/gh-pages/Pizza/Layout%20view%20pizza.png)
 
 ![Sushi layout](https://github.com/Feliphw/FoodTrap/blob/gh-pages/Sushi/Sushi%20Layout.png)
+
+![Pancake](https://github.com/Feliphw/FoodTrap/blob/gh-pages/Pancake/Imgs%20Used/Preview%20Pancake.png)
